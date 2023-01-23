@@ -22,7 +22,7 @@ p
 
 .grid-item 
 {
-    background-color: #F5F5F5;
+    background-color: #1d212b;
     text-align: center;
     padding: 20px;
 }
@@ -34,6 +34,6 @@ p
 
 img
 {
-  max-width: 50px;
-  max-length: 50px;
+  max-width: 200px;
+  max-length: 200px;
 }
